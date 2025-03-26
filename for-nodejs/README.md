@@ -3,7 +3,7 @@
 Run any script like below command;
 
 > [!IMPORTANT]  
-> Please don't use pnpm, yarn or any package manager. Use npm or npx.
+> Please don't use pnpm, yarn or any package manager. Use zx.
 > Because this pm's(package managers) getting some permission errors.
 
 ```shell
