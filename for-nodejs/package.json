@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "migrate": "zx migrate-npm-pkg.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.5",
+  "devDependencies": {
+    "zx": "^8.4.1"
+  },
+  "dependencies": {
+    "figlet": "^1.8.0"
+  }
+}
